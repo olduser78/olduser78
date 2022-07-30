@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alexandru
 - 👀 I’m interested in working as a back end or a full stack developer 
-- 🌱 I’m currently learning JavaScript, Java and Python
-- 💞️ I’m looking to collaborate on Websites Developping
+- 🌱 I’m currently learning JavaScript, Java and PHP
+- 💞️ I’m looking for a job as a Web Developer
 - 📫 How to reach  me: alrebenciuc@gmail.com
 
 <!---
